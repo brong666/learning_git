@@ -1,1 +1,1 @@
-print ("hiyahiyahiyahiyahiya")
+print ("buat maun")
